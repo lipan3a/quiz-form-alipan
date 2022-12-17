@@ -1,0 +1,24 @@
+body {
+  background-color: rgb(240, 218, 255);
+}
+
+main {
+  background-color: rgb(249, 240, 255);
+}
+
+.button-parent {
+  width: 95%;
+  max-width: 400px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 20px;
+  padding-bottom: 30px;
+}
+
+.button-parent>div {
+  padding: 6px;
+}
+
+.button-parent>div>* {
+  width: 100%;
+}

@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "staging": "dunambatam",
+    "default": "dunambatam"
+  },
+  "targets": {},
+  "etags": {}
+}
